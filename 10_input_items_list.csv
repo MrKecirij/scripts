@@ -1,0 +1,4 @@
+﻿ItemID;Source;Target;Port;Type;Name
+1;10.10.10.10;20.20.20.20;443;https;SSL from A to B server
+1;10.10.10.10;20.20.20.20;445;fs;File Sharing from A to B server
+1;20.20.20.20;10.10.10.10;445;fs;File Sharing from B to A server
